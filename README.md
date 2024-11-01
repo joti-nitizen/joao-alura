@@ -10,7 +10,7 @@
 
     <section>
         <div>
-            <h1>ATRAVÉS DO ARANHAVERSO SUPERA O PRIMEIRO FILME?</h1>
+            <h1>supermen?</h1>
             <p>#homem-aranha</p>
         </div>
 
