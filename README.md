@@ -74,6 +74,37 @@ section {
       <img src="https://img.youtube.com/vi/d4DzMNGoyis/maxresdefault.jpg" />
     </a>
   </div>
+    /* código omitido */
+
+.categoria-videos img {
+
+}
+.categoria-videos img {
+    opacity: 0.5;
+}
+.categoria-videos img {
+    opacity: 0.5;
+    height: 200px;
+}
+.categoria-videos img:hover {
+    opacity: 1.0;
+    border: 1px solid green;
+}
+.categoria h2 {
+    color: rgb(42, 122, 228);
+}
+.categoria {
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-top: 50px;
+}
+body {
+  color: white;
+  background: black;
+  margin: 0px;
+  font-family: "Chakra Petch", sans-serif;
+  margin-bottom: 100px;
+}
 </section>
 
 <!-- código omitido -->
