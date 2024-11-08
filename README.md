@@ -20,8 +20,6 @@
     </section>
 
 </body>
-
-</html>
 header {
     border-bottom: solid 2px rgb(42, 122, 228);
     padding: 20px;
